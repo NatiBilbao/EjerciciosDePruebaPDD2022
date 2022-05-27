@@ -1,4 +1,4 @@
-package src.prototype;
+package prototype;
 
 public class Contrato implements IContrato {
 

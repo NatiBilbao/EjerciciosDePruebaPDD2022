@@ -1,4 +1,4 @@
-package src.prototype;
+package prototype;
 
 public class cliente {
     public static void main(String[]args){
